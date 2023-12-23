@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /*
-* @author Stiven Gonzalez
+* @author Walter Aquino
 */
 
 class calculadora implements ActionListener {
